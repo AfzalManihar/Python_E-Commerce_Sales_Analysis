@@ -18,7 +18,7 @@ This project demonstrates how Python libraries like **Pandas, NumPy, Matplotlib,
 
 ---
 <img src="https://github.com/AfzalManihar/Python_E-Commerce_Sales_Analysis/raw/main/E-Commerce_Sales_final_look.png" alt="E-Commerce Sales Dashboard" width="1325" height="743"/>
----
+
 
 ## Tools & Libraries Used 🛠️  
 
