@@ -58,6 +58,7 @@ The **Python E-Commerce Sales Analysis Project** helps businesses:
 
 ## Connect with Me 🌐  
 
-- *LinkedIn*: [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)  
+- *LinkedIn*: [Afzal Manihar](https://www.linkedin.com/in/afzal-manihar-bb0183308)
+- **Portfolio:** [Afzal Manihar](https://afzalmanihar.github.io/) 
 
 ⭐ Don’t forget to star the repository if you find it valuable!
