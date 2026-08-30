@@ -6,7 +6,7 @@ This project demonstrates how Python libraries like **Pandas, NumPy, Matplotlib,
 
 ---   
 
-## Key Insights Covered 📊  
+## Key Insights Covered 📊   
  
 - **Data Cleaning & Manipulation** – Prepared raw sales data for analysis.  
 - **Exploratory Data Analysis (EDA)** – Used Python tools to explore patterns, trends, and anomalies.  
