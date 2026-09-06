@@ -12,7 +12,7 @@ This project demonstrates how Python libraries like **Pandas, NumPy, Matplotlib,
 - **Exploratory Data Analysis (EDA)** – Used Python tools to explore patterns, trends, and anomalies.  
 - **Customer Insights** – Identified potential customers by **states, occupations, gender, and age groups**.  
 - **Sales Optimization** – Found top-selling products & categories to improve inventory planning and boost sales.  
-
+ 
 ---
 ## EDA Dashboard
 
